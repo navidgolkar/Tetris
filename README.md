@@ -13,3 +13,4 @@ You can use the following buttons in the program:
     <li>'e' or 'E' : rotate the block counter-clockwise</li>
   </ul>
 </p>
+<img alt="Capture" src="capture.png">
